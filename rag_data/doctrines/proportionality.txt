@@ -1,0 +1,7 @@
+Doctrine of Proportionality
+
+This doctrine is used to test whether a restriction on a fundamental right is justified.
+The restriction must have a legitimate objective.
+There must be a rational connection between the restriction and the objective.
+The restriction should be necessary and not excessive.
+Courts use this doctrine mainly for Articles 19 and 21.
