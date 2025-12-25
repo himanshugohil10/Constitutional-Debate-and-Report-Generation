@@ -11,7 +11,7 @@ st.title("⚖️ Constitutional Argument Generator")
 # Sidebar Configuration
 st.sidebar.header("Configuration")
 api_key = st.sidebar.text_input("Groq API Key", type="password")
-model_name = st.sidebar.text_input("Model Name", value="llama3-8b-8192")
+model_name = st.sidebar.text_input("Model Name", value="llama-3.3-70b-versatile")
 
 # Main Input
 st.header("Case Details")
